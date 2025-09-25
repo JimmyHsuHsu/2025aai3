@@ -1,4 +1,4 @@
-/// week03-1.cpp 學習 C++ 的陣列 vector<int> a;
+/// week03-1.cpp 學習 C++ 的陣列 vector<int> a; 
 /// File-Save As 存檔時，要把檔名寫齊
 #include <iostream> /// C++ 的陣列 cin cout
 #include <vector> /// C++ 的陣列 vector

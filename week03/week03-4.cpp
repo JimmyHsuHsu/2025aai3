@@ -1,4 +1,4 @@
-// week03-4.cpp
+// week03-4.cpp 
 // LeetCode 挑戰題(賺金幣題) 120. Triangle 找到最上面往下走的最小值
 class Solution { // 使用(動態規劃)慢慢更新陣列就好了
 public:

@@ -1,4 +1,4 @@
-// week03-3a.cpp 二合一的第1種方法 把不是0的找出來 暫放ans，再放回去
+// week03-3a.cpp 二合一的第1種方法 把不是0的找出來 暫放ans，再放回去 
 // LeetCoode 學習計畫 283. Move Zeros
 class Solution {
 public:

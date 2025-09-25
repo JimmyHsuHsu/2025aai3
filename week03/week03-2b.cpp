@@ -1,4 +1,4 @@
-// week03-2b.cpp 二合一要寫2次 (寫完，很開心，很簡單，然後就...)
+// week03-2b.cpp 二合一要寫2次 (寫完，很開心，很簡單，然後就...) 
 // LeetCode 學習計畫第8題 1822. Sign of the product of an Array
 // 把陣列乘起來，看是正數，負數，還是 0
 class Solution {
